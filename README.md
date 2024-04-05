@@ -12,7 +12,7 @@ This is my modified version. Currently only sublink.py is modified for finding m
 
 
 ```
-git clone git@github.com:illustristng/my_illustris_python.git
+git clone git@github.com:smhr/my_illustris_python.git
 cd my_illustris_python
 pip install .
 ```
